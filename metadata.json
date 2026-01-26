@@ -1,0 +1,7 @@
+{
+  "name": "NeuroForge",
+  "description": "A neurologically stimulating cognitive exercise app using Gemini for personalized learning, interactive avatars, and dynamic content generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
